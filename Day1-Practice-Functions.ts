@@ -4,7 +4,7 @@
 //  Name                    :       Typescript Practice Functions Day - 1 
 //  Date                    :       14th October 2024
 //  Created By              :       Pralav Phakatkar
-//  Number of functions     :       5
+//  Number of functions     :       4
 //
 //////////////////////////////////////////////////////////////////////////////////
 
@@ -54,3 +54,4 @@ function Startprint(iNo:number):void
         console.log("*")
     }
 }
+

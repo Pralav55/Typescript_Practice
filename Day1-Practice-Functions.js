@@ -3,7 +3,7 @@
 //  Name                    :       Typescript Practice Functions Day - 1 
 //  Date                    :       14th October 2024
 //  Created By              :       Pralav Phakatkar
-//  Number of functions     :       5
+//  Number of functions     :       4
 //
 //////////////////////////////////////////////////////////////////////////////////
 //Function to print 5 times "Marvellous " on Screen
@@ -39,4 +39,3 @@ function Startprint(iNo) {
         console.log("*");
     }
 }
-Startprint(10);
